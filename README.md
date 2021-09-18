@@ -218,7 +218,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Cux Sabrina](https://github.com/theflucs)
 
 - ### **D**
-  - [Dhara Bindal](https://github.com/bindaldhara)
   - [Danella Patrick](https://github.com/danellapatrick)
   - [Daniel Johnson](https://github.com/danjohnson77)
   - [Darsh Gupta](https://github.com/DarshGupta1910)
@@ -243,6 +242,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Drishika Chauhan](https://github.com/drishika2002)
   - [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
   - [Dušan Tanasić](https://github.com/Duk4/)
+  - [Dhara Bindal](https://github.com/bindaldhara)
 
 - ### **E**
 
